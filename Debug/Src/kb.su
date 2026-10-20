@@ -1,0 +1,4 @@
+../Src/kb.c:17:19:Set_Keyboard	16	static
+../Src/kb.c:35:9:KB_Scan	16	static
+../Src/kb.c:53:9:KB_GetEvent	8	static
+../Src/kb.c:72:9:KB_GetHeld	0	static

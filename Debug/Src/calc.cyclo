@@ -1,0 +1,11 @@
+../Src/calc.c:33:13:i64_to_str	7
+../Src/calc.c:84:13:do_op	4
+../Src/calc.c:100:13:do_equals	20
+../Src/calc.c:140:13:draw_help	3
+../Src/calc.c:44:13:put_right	2
+../Src/calc.c:51:6:calc_Init	1
+../Src/calc.c:68:13:do_digit	6
+../Src/calc.c:59:6:calc_Clear	1
+../Src/calc.c:64:9:calc_IsEquals	3
+../Src/calc.c:128:6:calc_OnKey	5
+../Src/calc.c:165:6:calc_Draw	7
